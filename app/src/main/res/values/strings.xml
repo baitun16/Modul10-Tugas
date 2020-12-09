@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas Modul 10</string>
+    <string name="create_new_contact">CREATE NEW CONTACT</string>
+    <string name="nama_contact">Nama Contact</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="nomor_telepon">Nomor Telepon</string>
+    <string name="email">Email</string>
+    <string name="nama">Nama</string>
+    <string name="notelp">Notelp</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus_semua">Hapus Semua</string>
+</resources>
